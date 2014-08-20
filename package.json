@@ -1,6 +1,6 @@
 {
   "name": "granularity",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "main": "./granularity.js",
   "description": "Timebuckets for dates.",
   "homepage": "https://github.com/tounano/granularity/",
